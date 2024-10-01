@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.sourcelink.json
+/Users/Sigrid/Documents/C#/Oppgave 1/bin/Debug/net8.0/Oppgave 1
+/Users/Sigrid/Documents/C#/Oppgave 1/bin/Debug/net8.0/Oppgave 1.deps.json
+/Users/Sigrid/Documents/C#/Oppgave 1/bin/Debug/net8.0/Oppgave 1.runtimeconfig.json
+/Users/Sigrid/Documents/C#/Oppgave 1/bin/Debug/net8.0/Oppgave 1.dll
+/Users/Sigrid/Documents/C#/Oppgave 1/bin/Debug/net8.0/Oppgave 1.pdb
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.dll
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/refint/Oppgave 1.dll
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.pdb
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/Oppgave 1.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/Oppgave 1/obj/Debug/net8.0/ref/Oppgave 1.dll
