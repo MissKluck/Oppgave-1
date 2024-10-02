@@ -17,6 +17,7 @@ class Program
         Console.WriteLine(b);
 
         int[] myIntArray = {2,4,6,3,8,39,5,8};
+        Console.WriteLine(myIntArray);
 
     }
 }
